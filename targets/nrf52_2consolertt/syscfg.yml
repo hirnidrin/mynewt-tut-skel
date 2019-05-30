@@ -1,0 +1,4 @@
+syscfg.vals:
+    CONSOLE_RTT: 1
+    CONSOLE_UART: 0
+    OS_SYSVIEW: 1
