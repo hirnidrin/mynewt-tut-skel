@@ -19,7 +19,7 @@
 
 pkg.name: apps/1console
 pkg.type: app
-pkg.description: Blinky with console.
+pkg.description: Blinky with console and shell over UART.
 pkg.author:
 pkg.homepage:
 pkg.keywords:
